@@ -1,0 +1,1 @@
+This folder containes the builds on my own operating system for the fal of 2019 
